@@ -1,0 +1,1 @@
+// This file is intentionally empty - NotebookNode is now defined in MarkdownFile.cs
